@@ -33,7 +33,7 @@ code ~/.codex/config.toml
 添加下面内容
 ```toml
 model_provider = "codex"
-model = "gpt-5.1"
+model = "gpt-5.1-codex"
 model_reasoning_effort = "high"
 disable_response_storage = true
 
